@@ -1,0 +1,10 @@
+tensorflow==2.x.x
+keras==2.x.x
+numpy
+opencv-python
+scikit-learn
+matplotlib
+imgaug # For data augmentation
+pandas
+tflite-runtime # For Raspberry Pi inference
+Flask
